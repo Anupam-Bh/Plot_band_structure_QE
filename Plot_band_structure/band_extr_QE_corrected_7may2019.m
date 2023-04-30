@@ -79,7 +79,7 @@ kpts_array=linspace(1,kpts,kpts);
 
 % kpath_filename=input('Enter kpath filename: ','s'); (uncomment these)
 % ver=fopen(kpath_filename,'r');
-ver=fopen('kpath2','r');
+ver=fopen('kpath','r');
 j=1;
 while feof(ver)==0
     tline = fgetl(ver);
