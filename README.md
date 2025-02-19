@@ -12,3 +12,4 @@ e.g.
 
 X     0.5   0.0  0.0
 
+![bandstructure](https://github.com/user-attachments/assets/e4e654bc-1322-46ba-82f2-66467bf8ee31)
